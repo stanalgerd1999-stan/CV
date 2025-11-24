@@ -1,4 +1,35 @@
-
+{
+"name": "Stanislav",
+"second name": "Aleksashkin",
+"age": 26,
+"phone number":  ["2355739", "9977553"],
+"email":"stan.algerd.1999@gmail.com",
+"address": {"city": "Minsk", "zip": "220063", "street": "Kazimirovskaya","corpus": 33} ,
+"knowledge of languages":"English",
+"personal quality": "responsible ",
+"professional skills": "assiduity",
+"computer skills": {"programming languages":"SQL" , "software for design": "AutoCAD", "software for conversions": "Foxit PDF"},
+"resume for the position": "QA-tester",
+"desired salary": 1000,
+"busyness": "full",
+"citizenship": "Belarusian",
+"city of residence": "Minsk",
+"education": "higher",
+"birthdate":"1999-04-19",
+"gender": "male",
+"marriage": false,
+"work experience": 5,
+"name of the organization": "MIP",
+"post": "engineer-builder",
+"employment": "full",
+"responsibility": " design networks",
+"name of the educational institution":"BNTU",
+"university graduation date": 2021,
+"faculty": "engineering building", 
+"profession": "engineer-builder",
+"the form of education": "full", 
+"courses and trainings": "Belhard QA"
+}
 
 
  
